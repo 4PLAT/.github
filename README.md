@@ -1,4 +1,4 @@
-![4PLAT]([https://github.com/4PLAT/4plat-banner.png](https://github.com/4PLAT/4PLAT/blob/491339c0114430ae533ef3b01383f03d6e674473/4plat-topo.webp))
+![4PLAT](https://raw.githubusercontent.com/4PLAT/.github/refs/heads/main/4plat-topo.webp)
 
 # 4PLAT | Shared Innovation Group
 
