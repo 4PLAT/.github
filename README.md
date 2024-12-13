@@ -5,7 +5,7 @@
 Bem-vindo ao perfil oficial da **4PLAT** no GitHub!  
 Somos um grupo privado de empresas dedicadas à inovação compartilhada, colaborando para o desenvolvimento de soluções tecnológicas que impulsionam eficiência, conectividade e inovação.
 
-## 🌟 Sobre o 4PLAT
+## 🌟 Sobre a 4PLAT
 - **Inovação Compartilhada**: Facilitamos o compartilhamento de tecnologias e soluções entre as empresas membros do grupo.
 - **Desenvolvimento Colaborativo**: Trabalhamos juntos para criar ferramentas e dispositivos de alto impacto.
 - **Centralização de Conhecimento**: Proporcionamos um ambiente seguro e organizado para troca de informações e projetos.
@@ -22,7 +22,7 @@ Os projetos desenvolvidos no grupo **4PLAT** são focados em:
 - **Ferramentas**: Kubernetes, CI/CD, GitHub Actions.
 
 ## 🔒 Compartilhamento Privado
-Este repositório e os projetos associados são restritos às empresas membros do **4PLAT**. O acesso e o uso das ferramentas e tecnologias são regulados por políticas internas.
+Este repositório e os projetos associados são restritos às empresas membros da **4PLAT**. O acesso e o uso das ferramentas e tecnologias são regulados por políticas internas.
 
 ## 🤝 Como Contribuir
 Os membros do grupo podem:
@@ -31,9 +31,9 @@ Os membros do grupo podem:
 3. Compartilhar feedback e melhorias através das nossas ferramentas.
 
 ## 📫 Contato Interno
-- **Email**: contato@4plat.com
-- **Equipe de Suporte**: suporte@4plat.com
+- **Email**: contato@4plat.org
+- **Equipe de Suporte**: suporte@4plat.org
 
 ---
 
-🌟 **A inovação é construída em parceria. Obrigado por fazer parte do 4PLAT!**
+🌟 **A inovação é construída em parceria. Obrigado por fazer parte da 4PLAT!**
