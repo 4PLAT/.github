@@ -12,7 +12,7 @@ Somos um grupo privado de empresas dedicadas à inovação compartilhada, colabo
 
 ## 🚀 Projetos Internos
 Os projetos desenvolvidos no grupo **4PLAT** são focados em:
-- **[DriverBoard](#)**: Hardware veicular modular para monitorar e centralizar sensores, câmeras e atuadores.
+- **[DriverBoard](#)**: Hardware veicular modular para monitorar e processar dados de sensores e atuadores.
 - **Integrações Personalizadas**: Soluções específicas adaptadas às necessidades das empresas membros.
 - **Ferramentas Compartilhadas**: Bibliotecas e frameworks para facilitar o desenvolvimento interno.
 
