@@ -24,7 +24,7 @@ Os projetos desenvolvidos no grupo **4PLAT** são focados em:
 ## 🔒 Compartilhamento Privado
 Este repositório e os projetos associados são restritos às empresas membros da **4PLAT**. O acesso e o uso das ferramentas e tecnologias são regulados por políticas internas.
 
-## 🤝 Como Contribuir
+## 🤝 Como Colaborar
 Os membros do grupo podem:
 1. Participar das discussões no [4PLAT Discussions](https://github.com/4PLAT/4plat-discussions).
 2. Enviar propostas e colaborar em projetos internos.
@@ -36,4 +36,4 @@ Os membros do grupo podem:
 
 ---
 
-🌟 **A inovação é construída em parceria. Obrigado por fazer parte da 4PLAT!**
+🌟 **A inovação é construída em parceria. Beneficie-se fazendo parte da 4PLAT!**
