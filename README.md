@@ -1,6 +1,6 @@
 ![4PLAT](https://raw.githubusercontent.com/4PLAT/.github/refs/heads/main/4plat-topo.webp)
 
-# 4PLAT | Shared Innovation Group
+# 4PLAT - Shared Innovation Group
 
 Bem-vindo ao perfil oficial da **4PLAT** no GitHub!  
 Somos um grupo privado de empresas dedicadas à inovação compartilhada, colaborando para o desenvolvimento de soluções tecnológicas que impulsionam eficiência, conectividade e inovação.
